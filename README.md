@@ -39,7 +39,7 @@ Abaixo algumas imagens para demonstração:
 - [Diagrama de Classes e Diagrama de Casos de Uso](https://github.com/MatheusCervantes/ProjetoIntegrador/blob/main/Diagramas.pdf)
 
 ## ⚙️ Instalação e Uso
-1. Clone o projeto: ```git clone https://github.com/MatheusCervantes/ProjetoIntegrador.git``` 
+1. Clone o projeto: ```git clone https://github.com/camilymilsoni/bsi-projeto-integrador.git``` 
 2. Navegue até o diretório do projeto: ```cd ProjetoIntegrador```
 3. Instale as dependências do Composer: ```composer install```
 4. Copie o arquivo de ambiente de exemplo *__.env.example__* para *__.env__*: ```cp .env.example .env```
