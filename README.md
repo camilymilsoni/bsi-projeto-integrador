@@ -40,7 +40,7 @@ Abaixo algumas imagens para demonstração:
 
 ## ⚙️ Instalação e Uso
 1. Clone o projeto: ```git clone https://github.com/camilymilsoni/bsi-projeto-integrador.git``` 
-2. Navegue até o diretório do projeto: ```cd ProjetoIntegrador```
+2. Navegue até o diretório do projeto: ```cd bsi-projeto-integrador```
 3. Instale as dependências do Composer: ```composer install```
 4. Copie o arquivo de ambiente de exemplo *__.env.example__* para *__.env__*: ```cp .env.example .env```
 5. Configure o arquivo *__.env__* com as informações do seu banco de dados.
